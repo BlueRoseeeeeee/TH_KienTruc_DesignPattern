@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\NAM 4 KY2\Kien Truc\TH_KienTruc_DesignPattern\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1691090301.index
+1324163820.index

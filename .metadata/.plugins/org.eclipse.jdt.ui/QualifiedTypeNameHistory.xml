@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="context.OrderContext"/>
+    <fullyQualifiedTypeName name="state.State"/>
+    <fullyQualifiedTypeName name="implementState.Newly"/>
+    <fullyQualifiedTypeName name="implementState.Processing"/>
+    <fullyQualifiedTypeName name="implementState.Shipped"/>
+    <fullyQualifiedTypeName name="implementState.Cancelled"/>
+</qualifiedTypeNameHistroy>
